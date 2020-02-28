@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: UnclePing
-subtitle: ''
+title: UnclePing'Blog #
+subtitle: ''平叔的小茶馆 #
 description: ''
 keywords:
-author: Li Ping
-language: en
+author: Li Ping #
+language: zh-CN #
 timezone: ''
 
 # URL
