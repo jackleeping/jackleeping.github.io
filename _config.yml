@@ -99,5 +99,5 @@ theme: jekyll-theme-minimal
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:https://github.com/jackleeping/jackleeping.github.io.git
-  branch:master
+  repo:https: //github.com/jackleeping/jackleeping.github.io.git
+  branch: master
